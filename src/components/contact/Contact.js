@@ -1,8 +1,8 @@
 import React from "react";
 import "./Contact.css";
-import phone from "../contact/phone.svg";
-import envelope from "../contact/envelope.svg";
-import location from "../contact/location-pin.svg";
+import phone from "./phone.svg";
+import envelope from "./envelope.svg";
+import location from "./location-pin.svg";
 function Contact() {
   return (
     <div class="contact-wrapper">
