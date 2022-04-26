@@ -1,0 +1,64 @@
+
+
+.contact-wrapper{
+  margin-top: 80px;
+   background-color: whitesmoke;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+form button {
+  width: 25%;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+.title {
+  text-align: center;
+  line-height: 0.5rem;
+}
+.title p {
+   font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.address {
+  padding: 0 1rem;
+}
+input,
+textarea {
+  padding: 0.5em;
+}
+label {
+  padding: 1rem 0;
+  font-weight: 600;
+}
+input,
+textarea[placeholder] {
+  font-size: 1rem;
+}
+.contact hr {
+  width: 21%;
+  margin-left: 0;
+}
+li {
+  display: grid;
+  grid-template-columns: 12em 1fr;
+}
+
+.contact span {
+  margin-left: 1rem;
+}
+
+@media (min-width: 800px) {
+  .contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+  }
+
+  .title {
+    margin-top: 2rem;
+  }
+}
