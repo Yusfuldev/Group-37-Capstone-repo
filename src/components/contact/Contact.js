@@ -11,7 +11,7 @@ function Contact() {
         <p>Get In Touch</p>
         <h2>Contact Us</h2>
       </div>
-
+<br />
       <div className="contact">
         <form action="">
           <label htmlFor="Name">Your Name</label>
@@ -39,7 +39,9 @@ function Contact() {
             Reprehenderit, quidem. Velit consequatur quis ex blanditiis suscipit
             nesciunt quisquam deleniti quasi.
           </p>
-          <div>
+          <div> <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+            <br />
+          </div>
             <img src={phone} alt="" width="2%" />
             <span> +234grp37</span>
           </div>
@@ -50,7 +52,7 @@ function Contact() {
           <div>
             <img src={location} alt="" width="2%" />
             <span> side hustle Lagos, Nigeria</span>
-          </div>
+          </div> <br />
           <h4>Open Hours</h4> <hr />
           <ul>
             <li>
