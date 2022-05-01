@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Group-37-capstone-repo/static/css/main.18dd7032.css",
-    "main.js": "/Group-37-capstone-repo/static/js/main.9a403cea.js",
-    "index.html": "/Group-37-capstone-repo/index.html",
-    "static/media/phone.svg": "/Group-37-capstone-repo/static/media/phone.2cee0ade3571df0e872a2ad9e25635d7.svg",
-    "static/media/envelope.svg": "/Group-37-capstone-repo/static/media/envelope.1424e5d96124c70e4034d79f409beda5.svg",
-    "static/media/location-pin.svg": "/Group-37-capstone-repo/static/media/location-pin.90952ae9e05fef50fff24d3123cfa7d8.svg",
-    "main.18dd7032.css.map": "/Group-37-capstone-repo/static/css/main.18dd7032.css.map",
-    "main.9a403cea.js.map": "/Group-37-capstone-repo/static/js/main.9a403cea.js.map"
+    "main.css": "/Group-37-Capstone-repo/static/css/main.18dd7032.css",
+    "main.js": "/Group-37-Capstone-repo/static/js/main.3014075f.js",
+    "index.html": "/Group-37-Capstone-repo/index.html",
+    "static/media/phone.svg": "/Group-37-Capstone-repo/static/media/phone.2cee0ade3571df0e872a2ad9e25635d7.svg",
+    "static/media/envelope.svg": "/Group-37-Capstone-repo/static/media/envelope.1424e5d96124c70e4034d79f409beda5.svg",
+    "static/media/location-pin.svg": "/Group-37-Capstone-repo/static/media/location-pin.90952ae9e05fef50fff24d3123cfa7d8.svg",
+    "main.18dd7032.css.map": "/Group-37-Capstone-repo/static/css/main.18dd7032.css.map",
+    "main.3014075f.js.map": "/Group-37-Capstone-repo/static/js/main.3014075f.js.map"
   },
   "entrypoints": [
     "static/css/main.18dd7032.css",
-    "static/js/main.9a403cea.js"
+    "static/js/main.3014075f.js"
   ]
 }
